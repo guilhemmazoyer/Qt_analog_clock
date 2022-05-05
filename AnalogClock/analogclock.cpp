@@ -12,6 +12,7 @@ AnalogClock::AnalogClock(QWidget *parent) : QWidget(parent){
     setWindowTitle(tr("Analog Clock"));
     resize(200, 200);
 }
+
 void AnalogClock::paintEvent(QPaintEvent *){
     static const QPoint hourHand[3] = {
         QPoint(5, 6),
