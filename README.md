@@ -2,4 +2,4 @@
 
 Simple analog clock based on system time.
 
-![Preview](assets/images/analog_clock_preview.png)
+![Preview](assets/images/analog_clock_preview.jpg)
